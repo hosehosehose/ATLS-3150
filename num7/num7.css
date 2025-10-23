@@ -1,0 +1,43 @@
+h1,
+h2 {
+    color: white;
+    background-color: lightslategray;
+    border-radius: 30px;
+    padding: 10px 20px;
+}
+
+p {
+    color: darkblue;
+    padding: 10px 30px;
+}
+
+dt {
+    color: darkblue;
+    padding: 10px 30px;
+}
+
+ul {
+    border: 2px solid green;
+    background-color: aquamarine;
+}
+
+ol {
+    border: 2px solid orange;
+    background-color: antiquewhite;
+}
+
+ol,
+ul {
+    padding: 20px 50px;
+    border-radius: 16px;
+}
+
+h1,
+strong {
+    color: white;
+    background-color: navy;
+}
+
+em {
+    color: gray;
+}
